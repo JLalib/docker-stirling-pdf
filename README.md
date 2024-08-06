@@ -1,6 +1,7 @@
 # docker-stirling-pdf
 docker-compose Stirling PDF | PDF Manipulation Tool
 
+Locally hosted web application that allows you to perform various operations on PDF files
 
 ### OCR
 Descargar idiomas desde: https://github.com/Stirling-Tools/Stirling-PDF/blob/main/HowToUseOCR.md#language-packs
