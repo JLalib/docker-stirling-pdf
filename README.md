@@ -14,3 +14,7 @@ Acceso al contenedor y ls directorio
 docker exec -ti stirling-pdf sh
 
 ls -l /usr/share/tessdata
+
+
+### Repositorio original
+https://github.com/Stirling-Tools/Stirling-PDF/tree/main
